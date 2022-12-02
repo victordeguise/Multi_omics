@@ -161,7 +161,6 @@ wcwidth==0.2.5
 webencodings==0.5.1
 websocket-client==1.4.2
 websockets==10.4
-Werkzeug==2.2.2
 widgetsnbextension==4.0.3
 yellowbrick==1.5
 zipp==3.8.1

@@ -4,6 +4,7 @@ cycler==0.11.0
 fonttools==4.38.0
 importlib-metadata==5.1.0
 ipywidgets==8.0.2
+itables==1.4.1
 jupyter-core==5.1.0
 jupyterlab-widgets==3.0.3
 kiwisolver==1.4.4

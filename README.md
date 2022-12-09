@@ -12,11 +12,12 @@
   - Venn diagram comparing gene symbols appearing in the different datasets
 - **gsea.ipynb** : Enrichment analysis, includes:
   - dotplots for Gene Ontology pathways
+  - Sortable tables for each experience with filters
 
 
-### Requirements <a name="requirements.txt"></a>
+## Requirements <a name="requirements.txt"></a>
 
-## Python 3 librairies:
+### Python 3 librairies:
 
 * adjusttext
 * contourpy

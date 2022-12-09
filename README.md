@@ -13,11 +13,11 @@ To view the results you can click on the button below or clone the repository an
 
 
 ## Notebooks:
-- **script.ipynb** : Interactive visualisations, currently accessible under the Binder link above, includes: 
+- ```script.ipynb``` : Interactive visualisations, currently accessible under the Binder link above, includes: 
   - Volcano plots for proteomic and transcriptomic datasets by experience
   - Sortable tables for each experience with filters
   - Venn diagram comparing gene symbols appearing in the different datasets
-- **gsea.ipynb** : Enrichment analysis, includes:
+- ```gsea.ipynb``` : Enrichment analysis, includes:
   - dotplots for Gene Ontology pathways
   - Sortable tables for each experience with filters
 

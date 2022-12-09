@@ -18,11 +18,27 @@
 
 Python 3 librairies:
 
-*   argparse
-*   ete3[¹](#References)
-*   math
-*   numpy
-*   pandas
-*   sys
-*   textwrap
-*   time
+* adjusttext
+* contourpy
+* cycler
+* fonttools
+* importlib-metadata
+* ipywidgets
+* itables
+* jupyter-core
+* jupyterlab-widgets
+* kiwisolver
+* matplotlib
+* matplotlib-venn
+* mistune
+* nbconvert
+* pillow
+* platformdirs
+* scipy
+* seaborn
+* tinycss2
+* traitlets
+* voila
+* websockets
+* widgetsnbextension
+* zipp

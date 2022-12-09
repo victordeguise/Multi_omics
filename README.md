@@ -3,7 +3,9 @@
 ## Summary :
 
 This GitHub repository aims at producing interactive visualizations, analyses and integration of multi-omics data.
+This data is the result of transcriptomic and proteomic experiments on dental pulp mesenchymal stem cell growth.
 
+To view the results you can click on the button below :
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/victordeguise/Multi_omics/HEAD?urlpath=%2Fvoila%2Frender%2FScript.ipynb)
 

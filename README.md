@@ -14,9 +14,9 @@
   - dotplots for Gene Ontology pathways
 
 
-### Requirements <a name="Requirements"></a>
+### Requirements <a name="requirements.txt"></a>
 
-Python 3 librairies:
+## Python 3 librairies:
 
 * adjusttext
 * contourpy

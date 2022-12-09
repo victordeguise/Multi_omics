@@ -5,7 +5,7 @@
 This GitHub repository aims at producing interactive visualizations, analyses and integration of multi-omics data.
 This data is the result of transcriptomic and proteomic experiments on dental pulp mesenchymal stem cell growth.
 
-To view the results you can click on the button below or clone the repository and launch **script.ipynb** or **gsea.ipynb** on your computer :
+To view the results you can click on the button below or clone the repository and launch ```script.ipynb``` or ```gsea.ipynb``` on your computer :
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/victordeguise/Multi_omics/HEAD?urlpath=%2Fvoila%2Frender%2FScript.ipynb)
 

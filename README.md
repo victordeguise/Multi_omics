@@ -50,3 +50,8 @@ To view the results you can click on the button below or clone the repository an
 * websockets
 * widgetsnbextension
 * zipp
+
+
+## How to analyse your files ?
+
+You can put your transcriptomics files or your proteomics files into the repositories. Look the headers of the ".txt" files to know how your file should be. Warning : if your file have the wrong header format, it will probably not works.  

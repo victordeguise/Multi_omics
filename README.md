@@ -11,7 +11,7 @@ To view the results you can click on the button below or clone the repository an
 
 [https://mybinder.org/v2/gh/victordeguise/Multi_omics/HEAD?urlpath=%2Fvoila%2Frender%2FScript.ipynb](https://mybinder.org/v2/gh/victordeguise/Multi_omics/HEAD?urlpath=%2Fvoila%2Frender%2FScript.ipynb)
 
-If you're belong to Lyon1, you can access a private server via this link : https://momics.univ-lyon1.fr 
+If you belong to Lyon1, you can access to iCap server via this link : https://momics.univ-lyon1.fr 
 
 ## Notebooks:
 - ```script.ipynb``` : Interactive visualisations, currently accessible under the Binder link above, includes: 
